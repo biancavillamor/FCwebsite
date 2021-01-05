@@ -1,0 +1,52 @@
+.container{
+    justify-content: center;
+    align-self: center;
+    flex: 1;
+}
+
+
+.image {
+    align-self: center;
+    width: 100%;
+    padding: 20
+}
+
+.image-container {
+    width: 100%;
+    margin-top: 50px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-text {
+    display: inline;
+    font-family: Monteserrat
+}
+
+.toast-image {
+    width: 20em;
+    align-self: right;
+}
+
+.train {
+    float: right;
+    display: inline;
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+.mid-container {
+    display: inline;
+    float: right;
+}
+
+.carousel {
+    margin-bottom: 50px;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }

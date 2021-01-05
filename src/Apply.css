@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.row {
+    width: 100%;
+    margin-top: 50px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .block1 {
+    width: 18em;
+    align-self: center;
+    border-radius: 24px;
+  }
+  .block2{
+    width: 18em;
+    align-self: center;
+    border-radius: 24px;
+    padding-bottom: 7em;
+  }
