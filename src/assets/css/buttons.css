@@ -1,0 +1,23 @@
+.btn-apply{
+    background-color: #5CD2CB;
+    color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: "Montserrat";
+    font-size: 12pt;
+    font-weight: 600;
+    width: 150px;
+    height: 40px
+}
+
+.btn-closed{
+    background-color: #C4C4C4;
+    color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: "Montserrat";
+    font-size: 12pt;
+    font-weight: 600;
+    width: 150px;
+    height: 40px
+}
