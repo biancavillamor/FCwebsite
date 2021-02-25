@@ -1,0 +1,22 @@
+.image {
+    width: 60%;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container {
+    margin-bottom: 0%;
+    align-self: center;
+    text-align: center;
+}
+
+.image1 {
+    width: 40%;
+    margin-top: 10px;
+    float: right;
+}
+
+.text-container {
+    float: left;
+}
